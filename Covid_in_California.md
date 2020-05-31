@@ -16,6 +16,8 @@ Description of source data: Multiple sources of data will be transformed and com
 
 <img src="ca_counties.png" width="500" >
 
+<img src="covid.png" width="500" >
+
 ·    California county demographics data; ethnicity, income, gender, and age 
 
 <img src="CA_demographics.JPG" width="500" >
