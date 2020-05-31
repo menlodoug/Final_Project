@@ -18,5 +18,7 @@ Description of source data: Multiple sources of data will be transformed and com
 
 ·    California county demographics data; ethnicity, income, gender, and age 
 
+<img src="CA_demographics.JPG" width="500" >
+
 
 Question Hoped to Answer: What do we see on the horizon for COVID-19 cases in each California County as we get towards the end of July?
