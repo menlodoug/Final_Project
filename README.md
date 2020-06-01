@@ -1,18 +1,10 @@
 # Covid in California
 
-<<<<<<< HEAD
-Group: T-Th Group 3 - The Covid Killers
-
-<img src="covid19.jpg" width="500" >
-
-Selected Topic: COVID-19 Cases in California
-=======
 ## Group: T-Th Group 3 - The COVID Killers
 
 <img src="covid19.jpg" width="500" >
 
 **Selected Topic: COVID-19 Cases in California**
->>>>>>> 9b095a0e5f6649462c2e5907ed64df3902efd4ee
 
 <img src="daily_ca.png" width="500" >
 
@@ -20,11 +12,7 @@ Reason for selection: The spread of COVID-19 has changed society, nationally and
 
 Description of source data: Multiple sources of data will be transformed and combined to help us create future predictions for COVID cases
 
-<<<<<<< HEAD
-·    COVID-19 daily cases by State and County
-=======
 **COVID-19 daily cases by State and County**
->>>>>>> 9b095a0e5f6649462c2e5907ed64df3902efd4ee
 
 <img src="ca_counties.png" width="500" >
 
@@ -35,9 +23,6 @@ Description of source data: Multiple sources of data will be transformed and com
 <img src="CA_demographics.JPG" width="500" >
 
 
-<<<<<<< HEAD
-Question Hoped to Answer: What do we see on the horizon for COVID-19 cases in each California County as we get towards the end of July?
-=======
 **Objective:** 
 The COVID Killers team will predict an individual's likelihood of contracting the COVID-19 virus and the severity of the infliction based on a person's demographic profile.
 
@@ -68,4 +53,4 @@ A Google Slides presentation providing a comprehensive review of the COVD Killer
 * Opportunities for improvement and proposed changes to the project approach
 
 
->>>>>>> 9b095a0e5f6649462c2e5907ed64df3902efd4ee
+
