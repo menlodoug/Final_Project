@@ -36,7 +36,7 @@ Pandas will be used to clean the data collected and perform exploratory analysis
 A PostGres database will hold the data used to predict the impact of COVID-19 on individuals.  We will integrate data from the database into our machine learning model.  Also, the data tables will be exported as csv files to use in Tableau to display the data in a dashboard/story.
 
 **Dashboard/Story:**
-Tableau will be used to display the data in a fully functioning interactive dashboard.  It will be hosted on on Tableau Public at https://public.tableau.com/profile/doug.smith8181#!/  Users may visit the Tableau dashboard to investigate their likelihood of contracting COVID-19 based on certain criteria, including: 1. county of residence, 2. age, 3. gender,  and 4. income level.  The very early stage of the Tableau story can be viewed at https://public.tableau.com/profile/doug.smith8181#!/vizhome/CovidinCalifornia_15909686590090/AllCACounties-CovidDeathsM-asof53020
+Tableau will be used to display the data in a fully functioning interactive dashboard.  It will be hosted on on Tableau Public at https://public.tableau.com/profile/doug.smith8181#!/  Users may visit the Tableau dashboard to investigate their likelihood of contracting COVID-19 based on certain criteria, including: 1. county of residence, 2. age, 3. gender,  and 4. income level.  The very early stage of the Tableau story can be viewed at https://public.tableau.com/profile/doug.smith8181#!/vizhome/CovidinCalifornia_15909686590090/COVIDinCalifornia
 
 **Presentation:**
 A Google Slides presentation providing a comprehensive review of the COVD Killers project will be prepared, including:
