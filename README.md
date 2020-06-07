@@ -24,7 +24,7 @@ Description of source data: Multiple sources of data will be transformed and com
 
 
 **Objective:** 
-The COVID Killers team will predict an individual's likelihood of contracting the COVID-19 virus and the severity of the infliction based on a person's demographic profile.
+The COVID Killers team will predict future count of COVID Cases and Deaths for each California county using linear regression and machine learning algorithms.
 
 **GitHub:** 
 GitHub is the interface being used for team collaboration and shring progress on the project.  A project repository has been established at https://github.com/menlodoug/Final_Project/  with a master branch and at least 1 individual branch for each team member.
@@ -39,8 +39,9 @@ A PostGres database will hold the data used to predict the impact of COVID-19 on
 Tableau will be used to display the data in a fully functioning interactive dashboard.  It will be hosted on on Tableau Public at https://public.tableau.com/profile/doug.smith8181#!/  Users may visit the Tableau dashboard to investigate their likelihood of contracting COVID-19 based on certain criteria, including: 1. county of residence, 2. age, 3. gender,  and 4. income level.  The very early stage of the Tableau story can be viewed at https://public.tableau.com/profile/doug.smith8181#!/vizhome/CovidinCalifornia_15909686590090/COVIDinCalifornia
 
 **Presentation:**
-A Google Slides presentation providing a comprehensive review of the COVD Killers project will be prepared, including:
-
+A Google Slides presentation providing a comprehensive review of the COVD Killers project is available at the following web address:
+https://docs.google.com/presentation/d/16o6X6htrvaZQdWJ89pDt7Dn3QSCSIOascEuaN5sZP1o/edit#slide=id.g88096320f6_0_22, 
+This presentation covers:
 * Selected topic
 * Reason for topic selection
 * Description of source(s) of data
@@ -52,5 +53,6 @@ A Google Slides presentation providing a comprehensive review of the COVD Killer
 * Recommendations for future analysis
 * Opportunities for improvement and proposed changes to the project approach
 
-
-
+**Communication:**
+The COVID Killer team will use a variety of communication tools and methods to ensure connectedness an open dialogue regard the progress of the project.  a group Slack channel is the primary means of communicating progress updates to the project, all team members check the Slack channel periodically and post updates to completed work as well as requests for assistance.  The team holds LIVE ZOOM meetings as scheduled to review team progress, set the weekly/segment priorities and distribute roles and responsibilities.  Additionally, team meeting notes are captured and distributed via Slack.  Emails provide updates to team members regarding 
+Slack posts and allow the transfer of files and documentation.  Finally, the Team GitHub repository houses each team member's individual work and the collective project work.  Git Hub allows for communication of pending branch merges and the timeline of changes and updates to the project.
