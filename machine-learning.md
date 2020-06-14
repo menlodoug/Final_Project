@@ -21,4 +21,37 @@ Moving Average Model (MA) - Assumes the value of the dependent variable on the c
  - using statsmodels to work with time series data
  - determine if the data is stationary
  - Test different techniques to make the data stationary
- - 
+
+
+ Using RandomForest to predict cases(maybe death)
+  -- We need to transform the data to be able to use a time series data into a classification model
+     Ways to transform the data:
+        * Statistical transformations (Box-Cox transform, log transform, etc.)
+        * Detrending (differencing, STL, SEATS, etc.)
+        * Time Delay Embedding (more on this below)
+        * Feature engineering (lags, rolling statistics, Fourier terms, time dummies, etc.)
+  
+
+  # Scaling the data
+  Box-Cox transform -- took logs of the data to stabilize the variance
+
+  # Normalizing the data (removing trends in input variables)
+  Differencing -- way to make non-stationary time series data stationary by stabalizing the mean
+
+  # Adding lagging variables 
+
+  Time delay embedding - adding lag to our data. Time delay embedding represents a time series in a Euclidean space with the embedding dimension K.
+
+  # Establishing benchmark
+    - Using the the current data
+    - using the average traffic for n timeframe
+
+
+  # Backtesting strategy timeseries
+    - Sliding window 
+    - Expanding window 
+
+
+
+Downside of the  data we use
+- there are not to many data points
