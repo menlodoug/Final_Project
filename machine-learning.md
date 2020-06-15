@@ -17,7 +17,6 @@ Autoregressive (AR) models operate under the premise that past values have an ef
 Moving Average Model (MA) - Assumes the value of the dependent variable on the current day depends on the previous days error terms. 
 
 -- The value of q is called the order of the MA model
-
  - using statsmodels to work with time series data
  - determine if the data is stationary
  - Test different techniques to make the data stationary
