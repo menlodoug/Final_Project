@@ -1,24 +1,30 @@
-Testing verious regression model to predict COVID-19 cases and deaths
+Testing various regression model to predict COVID-19 cases in state in California. The winning model will be used to predict the cases at the county level in CA
 
+## Description of preliminary data preprocessing
+The CA state data per date for cases, death and mobility will be used to predict the 
+a number of future case.
 
-* Case prediction
+##  Description of preliminary feature engineering and preliminary feature selection, including their decisionmaking process 
+Since the problem is a time series problem and the data in time series tends to have trends, cycliality and seasonality, several data transformation will be necessary to render the data stationary:
+        * Box-Cox transform
+        * log transform
+        * Differencing
+        * lags
+        * rolling statistics
+        * time dummies
 
-Make the date as datetime and add it as index 
+All the existing columns on the mobility dataset will be used as features to train the model.
 
+## Description of how data was split into training and testing sets
 
-* Starting with a simple linear regression model
+In time series data depends on the previous values as a result splitting the data randomly into train and test is not an option.
 
-* Testing ARIMA (AutoRegressive Integrated Moving Average)
+I use the first 70% of the data as train data and the last 30% as test data.
 
-Autoregressive (AR) models operate under the premise that past values have an effect on current values. As long as the assumption holds, we can build a linear regression model that attempts to predict value of a dependent variable today, given the values it had on previous days.
+## Explanation of model choice, including limitations and benefits
 
--- The order of the AR model corresponds to the number of days incorporated in the formula.
+The initial model prediction is done with ARIMA, a classic univariant model in solving time series problems. The model performs poorly at predicting the future case due to the low number of data points and the lack of any other features besides the previous cases data.
 
-Moving Average Model (MA) - Assumes the value of the dependent variable on the current day depends on the previous days error terms. 
+Next, the RandomForestRegressor will be tested to predict the cases. Data transformation will be applied to render the data static. The reason why RandomForest was chosen in this case is the general robustness of the model and the feature importance feature.
 
--- The value of q is called the order of the MA model
-
- - using statsmodels to work with time series data
- - determine if the data is stationary
- - Test different techniques to make the data stationary
- - 
+Potentially a third model will be tested. Maybe VAT (Vector Autoregressive Model) or a deep learning model for time series prediction model.
