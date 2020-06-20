@@ -53,6 +53,4 @@ This presentation covers:
 * Recommendations for future analysis
 * Opportunities for improvement and proposed changes to the project approach
 
-**Communication:**
-The COVID Killer team will use a variety of communication tools and methods to ensure connectedness an open dialogue regard the progress of the project.  a group Slack channel is the primary means of communicating progress updates to the project, all team members check the Slack channel periodically and post updates to completed work as well as requests for assistance.  The team holds LIVE ZOOM meetings as scheduled to review team progress, set the weekly/segment priorities and distribute roles and responsibilities.  Additionally, team meeting notes are captured and distributed via Slack.  Emails provide updates to team members regarding 
-Slack posts and allow the transfer of files and documentation.  Finally, the Team GitHub repository houses each team member's individual work and the collective project work.  Git Hub allows for communication of pending branch merges and the timeline of changes and updates to the project.
+
