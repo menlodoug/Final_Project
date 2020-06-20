@@ -1,0 +1,59 @@
+County Name,Total Count Confirmed,Total Count Deaths,COVID-19 Positive Patients,ICU COVID-19 Positive Patients
+Los Angeles,1480362,67492,94647,31435
+San Diego,230723,9187,16417,6963
+Riverside,226430,9725,11771,4056
+Orange,174911,3610,12423,4956
+San Bernardino,135370,5735,8709,3231
+Santa Clara,121798,6095,5927,2671
+Alameda,99803,3576,4834,2256
+San Francisco,92420,1531,4148,1592
+San Mateo,72783,2936,2811,953
+Kern,59909,790,2199,1158
+Sacramento,59182,2439,2318,926
+Contra Costa,53471,1446,1474,628
+Tulare,49462,2327,1563,458
+Santa Barbara,47460,433,1679,809
+Fresno,42822,649,2621,900
+Ventura,35214,1084,1619,590
+San Joaquin,30538,1430,1236,528
+Imperial,29680,604,2455,815
+Stanislaus,21797,787,1337,338
+Solano,16075,484,825,407
+Sonoma,15706,171,250,93
+Marin,14688,691,192,80
+Monterey,13531,312,664,211
+Kings,11249,65,739,202
+San Luis Obispo,10622,56,144,113
+Placer,8746,445,579,188
+Yolo,8444,831,90,44
+Merced,8004,215,237,127
+Santa Cruz,7408,121,181,81
+Napa,3874,136,41,32
+Humboldt,3375,21,121,22
+Madera,3123,118,17,2
+El Dorado,2867,0,246,13
+San Benito,2854,114,51,26
+Nevada,2115,58,126,39
+Shasta,1671,209,75,50
+Sutter,1621,115,0,0
+Mono,1543,60,154,0
+Butte,1175,0,119,49
+Inyo,1041,37,149,18
+Yuba,985,51,38,18
+Calaveras,648,0,3,3
+Mendocino,550,0,34,15
+Mariposa,447,15,0,0
+Amador,424,0,0,0
+Lake,392,0,4,0
+Del Norte,381,0,0,0
+Glenn,353,0,0,0
+Siskiyou,303,0,3,0
+Plumas,220,0,0,0
+Colusa,181,0,20,16
+Tuolumne,116,0,0,0
+Tehama,81,46,0,0
+Alpine,60,0,0,0
+Trinity,23,0,0,0
+Sierra,8,0,0,0
+Lassen,4,0,0,0
+Modoc,2,0,1,0
