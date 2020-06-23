@@ -11,3 +11,8 @@ Mean characteristics of time series data
   - variance (how much an observation will deviate from the mean)
     * changing variance(heteroscedasting)
     * constant variance(homoscedasting)
+
+Things to consider when working with residuals
+  - mean
+  - autocorelation
+  - distribution
