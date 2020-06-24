@@ -28,4 +28,4 @@ The initial model prediction is done with ARIMA, a classic univariant model in s
 
 Next, the RandomForestRegressor will be tested to predict the cases. Data transformation will be applied to render the data static. The reason why RandomForest was chosen in this case is the general robustness of the model and the feature importance feature.
 
-Potentially a third model will be tested. Maybe VAT (Vector Autoregressive Model) or a deep learning model for time series prediction model.
+Update: I wasn't able to make the RandomForestRegressor model work for the problem in hand. I end up using the VAR model and used the case and mobility data to fit it. 
