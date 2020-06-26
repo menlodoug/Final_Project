@@ -107,6 +107,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,1,California,State,6,462546,2.536,37
 6/17/2020,1,California,State,6,524833,3.336,48
 6/18/2020,1,California,State,6,465281,3.677,53
+6/19/2020,1,California,State,6,616652,4.544,66
+6/20/2020,1,California,State,6,447818,3.397,49
+6/21/2020,1,California,State,6,459015,2.068,30
+6/22/2020,1,California,State,6,457434,2.904,42
+6/23/2020,1,California,State,6,470383,3.537,51
 3/1/2020,2,California,Alameda,6001,16737,3.684,58
 3/2/2020,2,California,Alameda,6001,17269,6.182,98
 3/3/2020,2,California,Alameda,6001,18181,6.271,100
@@ -215,6 +220,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Alameda,6001,16678,0.634,10
 6/17/2020,2,California,Alameda,6001,18616,1.473,23
 6/18/2020,2,California,Alameda,6001,16350,1.993,31
+6/19/2020,2,California,Alameda,6001,21313,3.107,49
+6/20/2020,2,California,Alameda,6001,15522,2.157,34
+6/21/2020,2,California,Alameda,6001,16426,0.7,11
+6/22/2020,2,California,Alameda,6001,16361,1.378,21
+6/23/2020,2,California,Alameda,6001,16400,1.954,31
 3/1/2020,2,California,Amador,6005,470,9.082,67
 3/2/2020,2,California,Amador,6005,452,13.124,97
 3/3/2020,2,California,Amador,6005,441,12.654,94
@@ -323,6 +333,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Amador,6005,558,6.155,45
 6/17/2020,2,California,Amador,6005,671,5.665,42
 6/18/2020,2,California,Amador,6005,599,8.114,60
+6/19/2020,2,California,Amador,6005,807,10.166,75
+6/20/2020,2,California,Amador,6005,579,6.189,46
+6/21/2020,2,California,Amador,6005,601,10.729,80
+6/22/2020,2,California,Amador,6005,540,4.639,34
+6/23/2020,2,California,Amador,6005,593,9.205,68
 3/1/2020,2,California,Butte,6007,2398,2.66,57
 3/2/2020,2,California,Butte,6007,2498,4.618,100
 3/3/2020,2,California,Butte,6007,2571,4.326,93
@@ -431,6 +446,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Butte,6007,2568,3.228,69
 6/17/2020,2,California,Butte,6007,3047,3.818,82
 6/18/2020,2,California,Butte,6007,2619,4.207,91
+6/19/2020,2,California,Butte,6007,3600,4.039,87
+6/20/2020,2,California,Butte,6007,2404,3.362,72
+6/21/2020,2,California,Butte,6007,2404,2.69,58
+6/22/2020,2,California,Butte,6007,2553,3.493,75
+6/23/2020,2,California,Butte,6007,2639,4.069,88
 3/1/2020,2,California,Calaveras,6009,513,11.571,67
 3/2/2020,2,California,Calaveras,6009,440,17.042,98
 3/3/2020,2,California,Calaveras,6009,441,16.905,98
@@ -539,6 +559,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Calaveras,6009,627,6.888,40
 6/17/2020,2,California,Calaveras,6009,783,7.567,43
 6/18/2020,2,California,Calaveras,6009,656,8.436,48
+6/19/2020,2,California,Calaveras,6009,849,10.561,61
+6/20/2020,2,California,Calaveras,6009,731,7.79,45
+6/21/2020,2,California,Calaveras,6009,735,7.525,43
+6/22/2020,2,California,Calaveras,6009,611,10.141,58
+6/23/2020,2,California,Calaveras,6009,668,7.685,44
 3/1/2020,2,California,Colusa,6011,190,12.779,89
 3/2/2020,2,California,Colusa,6011,199,13.818,96
 3/3/2020,2,California,Colusa,6011,210,12.822,89
@@ -647,6 +672,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Colusa,6011,281,9.305,64
 6/17/2020,2,California,Colusa,6011,323,14.755,103
 6/18/2020,2,California,Colusa,6011,270,20.028,139
+6/19/2020,2,California,Colusa,6011,376,16.275,113
+6/20/2020,2,California,Colusa,6011,250,14.851,103
+6/21/2020,2,California,Colusa,6011,250,7.264,50
+6/22/2020,2,California,Colusa,6011,250,14.078,98
+6/23/2020,2,California,Colusa,6011,268,17.207,120
 3/1/2020,2,California,Contra Costa,6013,13605,4.277,56
 3/2/2020,2,California,Contra Costa,6013,14114,7.183,94
 3/3/2020,2,California,Contra Costa,6013,14570,7.574,99
@@ -755,6 +785,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Contra Costa,6013,13566,2.356,31
 6/17/2020,2,California,Contra Costa,6013,15191,3.109,40
 6/18/2020,2,California,Contra Costa,6013,13557,3.33,43
+6/19/2020,2,California,Contra Costa,6013,16927,4.193,55
+6/20/2020,2,California,Contra Costa,6013,12978,3.151,41
+6/21/2020,2,California,Contra Costa,6013,13519,1.821,23
+6/22/2020,2,California,Contra Costa,6013,12949,2.532,33
+6/23/2020,2,California,Contra Costa,6013,13599,3.205,42
 3/1/2020,2,California,Del Norte,6015,211,1.363,60
 3/2/2020,2,California,Del Norte,6015,242,2.069,91
 3/3/2020,2,California,Del Norte,6015,237,2.216,98
@@ -863,6 +898,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Del Norte,6015,325,1.317,58
 6/17/2020,2,California,Del Norte,6015,399,2.003,88
 6/18/2020,2,California,Del Norte,6015,334,3.318,147
+6/19/2020,2,California,Del Norte,6015,513,3.148,139
+6/20/2020,2,California,Del Norte,6015,355,2.094,92
+6/21/2020,2,California,Del Norte,6015,332,2.048,90
+6/22/2020,2,California,Del Norte,6015,365,1.663,73
+6/23/2020,2,California,Del Norte,6015,343,3.199,141
 3/1/2020,2,California,El Dorado,6017,2874,5.676,58
 3/2/2020,2,California,El Dorado,6017,2866,9.503,97
 3/3/2020,2,California,El Dorado,6017,2889,9.679,99
@@ -971,6 +1011,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,El Dorado,6017,3204,5.182,53
 6/17/2020,2,California,El Dorado,6017,3733,5.32,54
 6/18/2020,2,California,El Dorado,6017,3395,5.969,61
+6/19/2020,2,California,El Dorado,6017,4184,7.336,75
+6/20/2020,2,California,El Dorado,6017,3440,6.159,63
+6/21/2020,2,California,El Dorado,6017,3552,6.059,62
+6/22/2020,2,California,El Dorado,6017,3237,5.294,54
+6/23/2020,2,California,El Dorado,6017,3397,6.122,63
 3/1/2020,2,California,Fresno,6019,10635,3.713,56
 3/2/2020,2,California,Fresno,6019,10923,6.351,96
 3/3/2020,2,California,Fresno,6019,11173,6.548,100
@@ -1079,6 +1124,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Fresno,6019,12090,3.624,55
 6/17/2020,2,California,Fresno,6019,13754,4.191,64
 6/18/2020,2,California,Fresno,6019,12374,4.546,69
+6/19/2020,2,California,Fresno,6019,16632,4.982,76
+6/20/2020,2,California,Fresno,6019,11398,3.496,53
+6/21/2020,2,California,Fresno,6019,11522,2.204,33
+6/22/2020,2,California,Fresno,6019,12064,3.403,51
+6/23/2020,2,California,Fresno,6019,12242,4.17,63
 3/1/2020,2,California,Glenn,6021,304,2.602,18
 3/2/2020,2,California,Glenn,6021,327,11.866,82
 3/3/2020,2,California,Glenn,6021,356,11.846,82
@@ -1187,6 +1237,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Glenn,6021,427,11.404,79
 6/17/2020,2,California,Glenn,6021,492,11.4,79
 6/18/2020,2,California,Glenn,6021,417,16.161,112
+6/19/2020,2,California,Glenn,6021,635,13.687,95
+6/20/2020,2,California,Glenn,6021,418,10.817,75
+6/21/2020,2,California,Glenn,6021,388,7.232,50
+6/22/2020,2,California,Glenn,6021,426,6.712,46
+6/23/2020,2,California,Glenn,6021,462,15.898,110
 3/1/2020,2,California,Humboldt,6023,1227,1.338,39
 3/2/2020,2,California,Humboldt,6023,1218,3.416,100
 3/3/2020,2,California,Humboldt,6023,1235,3.228,94
@@ -1295,6 +1350,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Humboldt,6023,1428,1.646,48
 6/17/2020,2,California,Humboldt,6023,1742,2.364,69
 6/18/2020,2,California,Humboldt,6023,1506,2.346,68
+6/19/2020,2,California,Humboldt,6023,2129,2.771,81
+6/20/2020,2,California,Humboldt,6023,1419,1.291,37
+6/21/2020,2,California,Humboldt,6023,1367,0.567,16
+6/22/2020,2,California,Humboldt,6023,1521,1.632,47
+6/23/2020,2,California,Humboldt,6023,1457,2.382,69
 3/1/2020,2,California,Imperial,6025,1689,2.74,82
 3/2/2020,2,California,Imperial,6025,1493,3.312,99
 3/3/2020,2,California,Imperial,6025,1492,3.29,99
@@ -1403,6 +1463,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Imperial,6025,1767,0.065,1
 6/17/2020,2,California,Imperial,6025,1985,0.972,29
 6/18/2020,2,California,Imperial,6025,1691,0.605,18
+6/19/2020,2,California,Imperial,6025,2562,1.856,55
+6/20/2020,2,California,Imperial,6025,1792,0.542,16
+6/21/2020,2,California,Imperial,6025,1600,0.039,1
+6/22/2020,2,California,Imperial,6025,1788,0.446,13
+6/23/2020,2,California,Imperial,6025,1767,0.824,24
 3/1/2020,2,California,Inyo,6027,244,3.133,90
 3/2/2020,2,California,Inyo,6027,234,3.174,91
 3/3/2020,2,California,Inyo,6027,227,3.531,102
@@ -1511,6 +1576,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Inyo,6027,353,5.372,155
 6/17/2020,2,California,Inyo,6027,406,3.858,111
 6/18/2020,2,California,Inyo,6027,356,5.31,153
+6/19/2020,2,California,Inyo,6027,478,15.336,444
+6/20/2020,2,California,Inyo,6027,360,4.764,137
+6/21/2020,2,California,Inyo,6027,367,9.576,277
+6/22/2020,2,California,Inyo,6027,350,3.5,101
+6/23/2020,2,California,Inyo,6027,348,3.814,110
 3/1/2020,2,California,Kern,6029,10283,3.219,52
 3/2/2020,2,California,Kern,6029,10438,5.908,96
 3/3/2020,2,California,Kern,6029,10722,6.146,100
@@ -1619,6 +1689,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Kern,6029,12614,2.952,48
 6/17/2020,2,California,Kern,6029,14326,3.559,57
 6/18/2020,2,California,Kern,6029,12898,3.568,58
+6/19/2020,2,California,Kern,6029,16883,4.355,70
+6/20/2020,2,California,Kern,6029,11900,2.502,40
+6/21/2020,2,California,Kern,6029,11923,1.689,27
+6/22/2020,2,California,Kern,6029,12421,2.588,42
+6/23/2020,2,California,Kern,6029,12854,3.778,61
 3/1/2020,2,California,Kings,6031,1472,3.192,74
 3/2/2020,2,California,Kings,6031,1467,4.568,106
 3/3/2020,2,California,Kings,6031,1526,4.294,99
@@ -1727,6 +1802,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Kings,6031,1755,2.881,67
 6/17/2020,2,California,Kings,6031,2181,3.395,79
 6/18/2020,2,California,Kings,6031,1895,3.284,76
+6/19/2020,2,California,Kings,6031,2681,4.309,100
+6/20/2020,2,California,Kings,6031,1856,2.541,59
+6/21/2020,2,California,Kings,6031,1770,2.06,47
+6/22/2020,2,California,Kings,6031,1843,2.735,63
+6/23/2020,2,California,Kings,6031,1878,3.435,79
 3/1/2020,2,California,Lake,6033,566,0.14,4
 3/2/2020,2,California,Lake,6033,564,2.795,88
 3/3/2020,2,California,Lake,6033,571,3.645,115
@@ -1835,6 +1915,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Lake,6033,715,1.275,40
 6/17/2020,2,California,Lake,6033,915,1.697,53
 6/18/2020,2,California,Lake,6033,772,1.638,51
+6/19/2020,2,California,Lake,6033,1180,2.083,66
+6/20/2020,2,California,Lake,6033,776,1.314,41
+6/21/2020,2,California,Lake,6033,755,0.695,22
+6/22/2020,2,California,Lake,6033,784,1.914,60
+6/23/2020,2,California,Lake,6033,819,2.098,66
 3/1/2020,2,California,Lassen,6035,245,0.386,12
 3/2/2020,2,California,Lassen,6035,254,2.801,92
 3/3/2020,2,California,Lassen,6035,262,3.01,99
@@ -1943,6 +2028,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Lassen,6035,354,2.125,69
 6/17/2020,2,California,Lassen,6035,417,3.627,119
 6/18/2020,2,California,Lassen,6035,368,4.197,138
+6/19/2020,2,California,Lassen,6035,505,5.836,192
+6/20/2020,2,California,Lassen,6035,316,2.174,71
+6/21/2020,2,California,Lassen,6035,305,1.247,41
+6/22/2020,2,California,Lassen,6035,352,2.92,96
+6/23/2020,2,California,Lassen,6035,374,4.562,150
 3/1/2020,2,California,Los Angeles,6037,110713,3.996,60
 3/2/2020,2,California,Los Angeles,6037,112327,6.502,98
 3/3/2020,2,California,Los Angeles,6037,116225,6.591,99
@@ -2051,6 +2141,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Los Angeles,6037,104760,1.785,27
 6/17/2020,2,California,Los Angeles,6037,118099,2.701,40
 6/18/2020,2,California,Los Angeles,6037,104445,2.797,42
+6/19/2020,2,California,Los Angeles,6037,142007,3.992,60
+6/20/2020,2,California,Los Angeles,6037,100305,2.712,41
+6/21/2020,2,California,Los Angeles,6037,103329,1.292,19
+6/22/2020,2,California,Los Angeles,6037,104443,2.271,34
+6/23/2020,2,California,Los Angeles,6037,106793,2.696,40
 3/1/2020,2,California,Madera,6039,1463,2.781,44
 3/2/2020,2,California,Madera,6039,1451,5.969,96
 3/3/2020,2,California,Madera,6039,1454,6.216,100
@@ -2159,6 +2254,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Madera,6039,1726,3.254,52
 6/17/2020,2,California,Madera,6039,2179,4.068,65
 6/18/2020,2,California,Madera,6039,1917,4.766,76
+6/19/2020,2,California,Madera,6039,2556,6.047,97
+6/20/2020,2,California,Madera,6039,1863,3.779,60
+6/21/2020,2,California,Madera,6039,1844,2.8,45
+6/22/2020,2,California,Madera,6039,1882,3.878,62
+6/23/2020,2,California,Madera,6039,1935,4.407,70
 3/1/2020,2,California,Marin,6041,1920,4.502,68
 3/2/2020,2,California,Marin,6041,1903,6.413,97
 3/3/2020,2,California,Marin,6041,1968,6.593,100
@@ -2267,6 +2367,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Marin,6041,2046,2.566,38
 6/17/2020,2,California,Marin,6041,2228,2.738,41
 6/18/2020,2,California,Marin,6041,1951,3.478,52
+6/19/2020,2,California,Marin,6041,2540,3.643,55
+6/20/2020,2,California,Marin,6041,1930,4.028,61
+6/21/2020,2,California,Marin,6041,1996,3.202,48
+6/22/2020,2,California,Marin,6041,1915,2.696,40
+6/23/2020,2,California,Marin,6041,1922,3.487,52
 3/1/2020,2,California,Mariposa,6043,125,4.483,85
 3/4/2020,2,California,Mariposa,6043,108,5.987,114
 3/5/2020,2,California,Mariposa,6043,103,4.472,85
@@ -2328,6 +2433,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Mariposa,6043,164,5.049,96
 6/17/2020,2,California,Mariposa,6043,191,8.314,158
 6/18/2020,2,California,Mariposa,6043,158,7.43,142
+6/19/2020,2,California,Mariposa,6043,276,5.463,104
+6/20/2020,2,California,Mariposa,6043,182,6.23,119
+6/21/2020,2,California,Mariposa,6043,174,12.622,241
+6/22/2020,2,California,Mariposa,6043,210,7.545,144
+6/23/2020,2,California,Mariposa,6043,187,7.937,151
 3/1/2020,2,California,Mendocino,6045,726,1.881,58
 3/2/2020,2,California,Mendocino,6045,704,3.212,100
 3/3/2020,2,California,Mendocino,6045,733,3.021,94
@@ -2436,6 +2546,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Mendocino,6045,847,1.701,52
 6/17/2020,2,California,Mendocino,6045,986,2.359,73
 6/18/2020,2,California,Mendocino,6045,840,2.485,77
+6/19/2020,2,California,Mendocino,6045,1232,2.291,71
+6/20/2020,2,California,Mendocino,6045,908,2.182,67
+6/21/2020,2,California,Mendocino,6045,897,1.675,52
+6/22/2020,2,California,Mendocino,6045,921,2.419,75
+6/23/2020,2,California,Mendocino,6045,871,2.544,79
 3/1/2020,2,California,Merced,6047,2850,2.552,52
 3/2/2020,2,California,Merced,6047,2899,4.87,100
 3/3/2020,2,California,Merced,6047,2953,4.861,99
@@ -2544,6 +2659,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Merced,6047,3401,2.661,54
 6/17/2020,2,California,Merced,6047,4060,3.336,68
 6/18/2020,2,California,Merced,6047,3420,3.829,78
+6/19/2020,2,California,Merced,6047,4727,4.178,85
+6/20/2020,2,California,Merced,6047,3254,3.302,67
+6/21/2020,2,California,Merced,6047,3413,2.203,45
+6/22/2020,2,California,Merced,6047,3448,2.868,58
+6/23/2020,2,California,Merced,6047,3550,3.526,72
 3/1/2020,2,California,Mono,6051,276,322.382,14041
 3/2/2020,2,California,Mono,6051,163,3.779,164
 3/3/2020,2,California,Mono,6051,144,2.034,88
@@ -2634,6 +2754,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Mono,6051,274,5.03,219
 6/17/2020,2,California,Mono,6051,311,5.252,228
 6/18/2020,2,California,Mono,6051,266,3.634,158
+6/19/2020,2,California,Mono,6051,386,9.842,428
+6/20/2020,2,California,Mono,6051,355,7.642,332
+6/21/2020,2,California,Mono,6051,345,19.34,842
+6/22/2020,2,California,Mono,6051,312,16.444,716
+6/23/2020,2,California,Mono,6051,322,4.89,212
 3/1/2020,2,California,Monterey,6053,3442,2.928,56
 3/2/2020,2,California,Monterey,6053,3404,4.982,96
 3/3/2020,2,California,Monterey,6053,3496,5.157,100
@@ -2742,6 +2867,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Monterey,6053,3803,2.675,51
 6/17/2020,2,California,Monterey,6053,4486,3.915,75
 6/18/2020,2,California,Monterey,6053,3843,3.93,76
+6/19/2020,2,California,Monterey,6053,5559,4.662,90
+6/20/2020,2,California,Monterey,6053,3979,3.955,76
+6/21/2020,2,California,Monterey,6053,3864,2.046,39
+6/22/2020,2,California,Monterey,6053,3884,3.406,66
+6/23/2020,2,California,Monterey,6053,3866,4.246,82
 3/1/2020,2,California,Napa,6055,1549,4.065,78
 3/2/2020,2,California,Napa,6055,1466,5.145,99
 3/3/2020,2,California,Napa,6055,1535,5.123,98
@@ -2850,6 +2980,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Napa,6055,1608,3.016,58
 6/17/2020,2,California,Napa,6055,1907,3.287,63
 6/18/2020,2,California,Napa,6055,1653,3.952,76
+6/19/2020,2,California,Napa,6055,2274,4.398,84
+6/20/2020,2,California,Napa,6055,1652,3.972,76
+6/21/2020,2,California,Napa,6055,1696,2.728,52
+6/22/2020,2,California,Napa,6055,1658,3.131,60
+6/23/2020,2,California,Napa,6055,1701,3.679,71
 3/1/2020,2,California,Nevada,6057,1000,7.528,85
 3/2/2020,2,California,Nevada,6057,977,8.625,98
 3/3/2020,2,California,Nevada,6057,974,8.775,100
@@ -2958,6 +3093,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Nevada,6057,1258,5.827,66
 6/17/2020,2,California,Nevada,6057,1453,6.181,70
 6/18/2020,2,California,Nevada,6057,1353,6.621,75
+6/19/2020,2,California,Nevada,6057,1894,7.516,85
+6/20/2020,2,California,Nevada,6057,1385,7.183,81
+6/21/2020,2,California,Nevada,6057,1416,7.374,84
+6/22/2020,2,California,Nevada,6057,1350,6.951,79
+6/23/2020,2,California,Nevada,6057,1348,7.109,81
 3/1/2020,2,California,Orange,6059,46018,4.981,66
 3/2/2020,2,California,Orange,6059,46930,7.135,95
 3/3/2020,2,California,Orange,6059,48172,7.364,98
@@ -3066,6 +3206,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Orange,6059,42821,3.286,44
 6/17/2020,2,California,Orange,6059,46891,3.869,51
 6/18/2020,2,California,Orange,6059,42451,4.273,57
+6/19/2020,2,California,Orange,6059,53257,5.039,67
+6/20/2020,2,California,Orange,6059,41196,4.284,57
+6/21/2020,2,California,Orange,6059,43059,2.889,38
+6/22/2020,2,California,Orange,6059,40736,3.617,48
+6/23/2020,2,California,Orange,6059,43762,4.29,57
 3/1/2020,2,California,Placer,6061,5435,5.299,65
 3/2/2020,2,California,Placer,6061,5504,7.577,93
 3/3/2020,2,California,Placer,6061,5574,8.076,100
@@ -3174,6 +3319,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Placer,6061,5926,4.825,59
 6/17/2020,2,California,Placer,6061,6568,5.636,69
 6/18/2020,2,California,Placer,6061,6009,6.161,76
+6/19/2020,2,California,Placer,6061,7521,6.341,78
+6/20/2020,2,California,Placer,6061,5773,6.034,74
+6/21/2020,2,California,Placer,6061,6074,5.008,62
+6/22/2020,2,California,Placer,6061,5581,5.252,65
+6/23/2020,2,California,Placer,6061,5953,5.717,70
 3/1/2020,2,California,Plumas,6063,141,0.484,26
 3/2/2020,2,California,Plumas,6063,135,1.025,55
 3/3/2020,2,California,Plumas,6063,139,1.431,77
@@ -3277,6 +3427,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Plumas,6063,261,2.695,146
 6/17/2020,2,California,Plumas,6063,315,3.152,170
 6/18/2020,2,California,Plumas,6063,259,4.169,226
+6/19/2020,2,California,Plumas,6063,444,3.634,197
+6/20/2020,2,California,Plumas,6063,308,3.046,165
+6/21/2020,2,California,Plumas,6063,338,7.925,429
+6/22/2020,2,California,Plumas,6063,281,4.077,221
+6/23/2020,2,California,Plumas,6063,306,3.867,209
 3/1/2020,2,California,Riverside,6065,33188,4.918,57
 3/2/2020,2,California,Riverside,6065,33741,8.182,96
 3/3/2020,2,California,Riverside,6065,34397,8.497,100
@@ -3385,6 +3540,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Riverside,6065,34510,3.652,42
 6/17/2020,2,California,Riverside,6065,40081,4.808,56
 6/18/2020,2,California,Riverside,6065,35642,5.194,61
+6/19/2020,2,California,Riverside,6065,46741,6.225,73
+6/20/2020,2,California,Riverside,6065,34012,4.518,53
+6/21/2020,2,California,Riverside,6065,34884,2.65,31
+6/22/2020,2,California,Riverside,6065,34573,4.203,49
+6/23/2020,2,California,Riverside,6065,35835,4.739,55
 3/1/2020,2,California,Sacramento,6067,20309,3.773,53
 3/2/2020,2,California,Sacramento,6067,20395,6.907,97
 3/3/2020,2,California,Sacramento,6067,21041,7.075,99
@@ -3493,6 +3653,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Sacramento,6067,21551,2.605,36
 6/17/2020,2,California,Sacramento,6067,24129,3.056,43
 6/18/2020,2,California,Sacramento,6067,21767,3.556,50
+6/19/2020,2,California,Sacramento,6067,27870,4.457,62
+6/20/2020,2,California,Sacramento,6067,20999,3.345,47
+6/21/2020,2,California,Sacramento,6067,21668,2.079,29
+6/22/2020,2,California,Sacramento,6067,21400,2.845,40
+6/23/2020,2,California,Sacramento,6067,21758,3.61,51
 3/1/2020,2,California,San Benito,6069,792,3.876,33
 3/2/2020,2,California,San Benito,6069,851,10.86,93
 3/3/2020,2,California,San Benito,6069,867,9.784,84
@@ -3601,6 +3766,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Benito,6069,918,3.322,28
 6/17/2020,2,California,San Benito,6069,1083,4.78,41
 6/18/2020,2,California,San Benito,6069,1000,5.466,47
+6/19/2020,2,California,San Benito,6069,1268,7.91,68
+6/20/2020,2,California,San Benito,6069,929,4.395,37
+6/21/2020,2,California,San Benito,6069,908,2.888,24
+6/22/2020,2,California,San Benito,6069,951,3.586,30
+6/23/2020,2,California,San Benito,6069,975,4.929,42
 3/1/2020,2,California,San Bernardino,6071,28233,4.508,57
 3/2/2020,2,California,San Bernardino,6071,28379,7.678,98
 3/3/2020,2,California,San Bernardino,6071,28900,7.657,98
@@ -3709,6 +3879,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Bernardino,6071,30411,3.565,45
 6/17/2020,2,California,San Bernardino,6071,35198,4.595,58
 6/18/2020,2,California,San Bernardino,6071,30948,4.868,62
+6/19/2020,2,California,San Bernardino,6071,41571,6.163,78
+6/20/2020,2,California,San Bernardino,6071,29558,4.348,55
+6/21/2020,2,California,San Bernardino,6071,30359,2.67,34
+6/22/2020,2,California,San Bernardino,6071,30475,4.102,52
+6/23/2020,2,California,San Bernardino,6071,30823,4.66,59
 3/1/2020,2,California,San Diego,6073,36962,4.555,59
 3/2/2020,2,California,San Diego,6073,37445,7.409,96
 3/3/2020,2,California,San Diego,6073,38681,7.627,99
@@ -3817,6 +3992,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Diego,6073,38040,2.72,35
 6/17/2020,2,California,San Diego,6073,43233,3.68,47
 6/18/2020,2,California,San Diego,6073,38699,4.167,54
+6/19/2020,2,California,San Diego,6073,52095,5.126,66
+6/20/2020,2,California,San Diego,6073,37829,3.627,47
+6/21/2020,2,California,San Diego,6073,38016,2.453,31
+6/22/2020,2,California,San Diego,6073,38668,3.352,43
+6/23/2020,2,California,San Diego,6073,39248,3.851,50
 3/1/2020,2,California,San Francisco,6075,4513,2.663,77
 3/2/2020,2,California,San Francisco,6075,4139,3.337,97
 3/3/2020,2,California,San Francisco,6075,5251,3.28,95
@@ -3925,6 +4105,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Francisco,6075,4047,0.15,4
 6/17/2020,2,California,San Francisco,6075,4425,0.413,12
 6/18/2020,2,California,San Francisco,6075,3929,0.941,27
+6/19/2020,2,California,San Francisco,6075,5471,1.466,42
+6/20/2020,2,California,San Francisco,6075,3493,0.718,20
+6/21/2020,2,California,San Francisco,6075,3541,0.136,3
+6/22/2020,2,California,San Francisco,6075,4067,0.417,12
+6/23/2020,2,California,San Francisco,6075,3950,0.487,14
 3/1/2020,2,California,San Joaquin,6077,8895,3.261,50
 3/2/2020,2,California,San Joaquin,6077,9070,6.284,96
 3/3/2020,2,California,San Joaquin,6077,9409,6.507,99
@@ -4033,6 +4218,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Joaquin,6077,10140,3.063,47
 6/17/2020,2,California,San Joaquin,6077,11771,4.189,64
 6/18/2020,2,California,San Joaquin,6077,10589,4.278,65
+6/19/2020,2,California,San Joaquin,6077,13288,5.034,77
+6/20/2020,2,California,San Joaquin,6077,9757,3.565,54
+6/21/2020,2,California,San Joaquin,6077,9879,2.062,31
+6/22/2020,2,California,San Joaquin,6077,9866,3.577,54
+6/23/2020,2,California,San Joaquin,6077,10302,4.306,66
 3/1/2020,2,California,San Luis Obispo,6079,3395,5.018,75
 3/2/2020,2,California,San Luis Obispo,6079,3209,6.284,94
 3/3/2020,2,California,San Luis Obispo,6079,3256,6.659,100
@@ -4141,6 +4331,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Luis Obispo,6079,3908,4.492,67
 6/17/2020,2,California,San Luis Obispo,6079,4430,4.932,74
 6/18/2020,2,California,San Luis Obispo,6079,3859,5.988,89
+6/19/2020,2,California,San Luis Obispo,6079,5339,7.105,106
+6/20/2020,2,California,San Luis Obispo,6079,3891,4.731,71
+6/21/2020,2,California,San Luis Obispo,6079,3931,4.882,73
+6/22/2020,2,California,San Luis Obispo,6079,3792,4.624,69
+6/23/2020,2,California,San Luis Obispo,6079,3961,5.755,86
 3/1/2020,2,California,San Mateo,6081,10364,4.522,66
 3/2/2020,2,California,San Mateo,6081,10852,6.775,100
 3/3/2020,2,California,San Mateo,6081,11824,6.637,97
@@ -4249,6 +4444,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,San Mateo,6081,10382,1.084,16
 6/17/2020,2,California,San Mateo,6081,11222,1.789,26
 6/18/2020,2,California,San Mateo,6081,9852,2.302,33
+6/19/2020,2,California,San Mateo,6081,12494,2.856,42
+6/20/2020,2,California,San Mateo,6081,9822,2.455,36
+6/21/2020,2,California,San Mateo,6081,10202,1.387,20
+6/22/2020,2,California,San Mateo,6081,9777,1.378,20
+6/23/2020,2,California,San Mateo,6081,10121,1.782,26
 3/1/2020,2,California,Santa Barbara,6083,3806,3.136,63
 3/2/2020,2,California,Santa Barbara,6083,3787,4.912,99
 3/3/2020,2,California,Santa Barbara,6083,3927,4.948,100
@@ -4357,6 +4557,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Santa Barbara,6083,4033,2.601,52
 6/17/2020,2,California,Santa Barbara,6083,4662,3.151,63
 6/18/2020,2,California,Santa Barbara,6083,4016,3.69,74
+6/19/2020,2,California,Santa Barbara,6083,5733,3.512,70
+6/20/2020,2,California,Santa Barbara,6083,4026,3.016,60
+6/21/2020,2,California,Santa Barbara,6083,4043,2.135,43
+6/22/2020,2,California,Santa Barbara,6083,4057,2.784,56
+6/23/2020,2,California,Santa Barbara,6083,4037,3.343,67
 3/1/2020,2,California,Santa Clara,6085,18815,4.088,57
 3/2/2020,2,California,Santa Clara,6085,19251,7.084,99
 3/3/2020,2,California,Santa Clara,6085,20254,7.105,99
@@ -4465,6 +4670,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Santa Clara,6085,19257,0.688,9
 6/17/2020,2,California,Santa Clara,6085,21470,1.449,20
 6/18/2020,2,California,Santa Clara,6085,18544,1.998,27
+6/19/2020,2,California,Santa Clara,6085,24264,2.946,41
+6/20/2020,2,California,Santa Clara,6085,18255,2.326,32
+6/21/2020,2,California,Santa Clara,6085,18800,0.857,11
+6/22/2020,2,California,Santa Clara,6085,18391,0.941,13
+6/23/2020,2,California,Santa Clara,6085,18915,1.77,24
 3/1/2020,2,California,Santa Cruz,6087,2093,2.959,64
 3/2/2020,2,California,Santa Cruz,6087,2056,4.368,94
 3/3/2020,2,California,Santa Cruz,6087,2131,4.598,100
@@ -4573,6 +4783,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Santa Cruz,6087,2215,1.98,43
 6/17/2020,2,California,Santa Cruz,6087,2627,2.591,56
 6/18/2020,2,California,Santa Cruz,6087,2279,2.943,64
+6/19/2020,2,California,Santa Cruz,6087,3188,4.126,89
+6/20/2020,2,California,Santa Cruz,6087,2219,3.038,66
+6/21/2020,2,California,Santa Cruz,6087,2271,2.435,52
+6/22/2020,2,California,Santa Cruz,6087,2130,2.262,49
+6/23/2020,2,California,Santa Cruz,6087,2235,2.937,63
 3/1/2020,2,California,Shasta,6089,2262,3.744,59
 3/2/2020,2,California,Shasta,6089,2335,6.234,98
 3/3/2020,2,California,Shasta,6089,2392,6.3,100
@@ -4681,6 +4896,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Shasta,6089,2848,4.944,78
 6/17/2020,2,California,Shasta,6089,3462,5.316,84
 6/18/2020,2,California,Shasta,6089,3002,5.774,91
+6/19/2020,2,California,Shasta,6089,4091,5.872,93
+6/20/2020,2,California,Shasta,6089,2876,4.711,74
+6/21/2020,2,California,Shasta,6089,2862,4.191,66
+6/22/2020,2,California,Shasta,6089,2970,5.236,83
+6/23/2020,2,California,Shasta,6089,3073,5.662,89
 3/1/2020,2,California,Siskiyou,6093,504,2.23,35
 3/2/2020,2,California,Siskiyou,6093,493,4.714,74
 3/3/2020,2,California,Siskiyou,6093,514,6.334,100
@@ -4789,6 +5009,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Siskiyou,6093,865,6.04,95
 6/17/2020,2,California,Siskiyou,6093,1013,8.078,127
 6/18/2020,2,California,Siskiyou,6093,901,9.287,146
+6/19/2020,2,California,Siskiyou,6093,1264,9.204,145
+6/20/2020,2,California,Siskiyou,6093,867,6.315,99
+6/21/2020,2,California,Siskiyou,6093,909,7.559,119
+6/22/2020,2,California,Siskiyou,6093,863,6.452,101
+6/23/2020,2,California,Siskiyou,6093,871,7.496,118
 3/1/2020,2,California,Solano,6095,5004,3.327,46
 3/2/2020,2,California,Solano,6095,5046,6.81,95
 3/3/2020,2,California,Solano,6095,5194,7.146,99
@@ -4897,6 +5122,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Solano,6095,5273,2.825,39
 6/17/2020,2,California,Solano,6095,6053,3.427,47
 6/18/2020,2,California,Solano,6095,5381,3.793,53
+6/19/2020,2,California,Solano,6095,7050,4.376,61
+6/20/2020,2,California,Solano,6095,5123,3.501,48
+6/21/2020,2,California,Solano,6095,5227,2.199,30
+6/22/2020,2,California,Solano,6095,5113,2.897,40
+6/23/2020,2,California,Solano,6095,5229,3.714,51
 3/1/2020,2,California,Sonoma,6097,4748,3.471,56
 3/2/2020,2,California,Sonoma,6097,4606,6.164,100
 3/3/2020,2,California,Sonoma,6097,4765,6.034,97
@@ -5005,6 +5235,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Sonoma,6097,4914,2.298,37
 6/17/2020,2,California,Sonoma,6097,5672,3.225,52
 6/18/2020,2,California,Sonoma,6097,4957,3.618,58
+6/19/2020,2,California,Sonoma,6097,6578,4.066,65
+6/20/2020,2,California,Sonoma,6097,4765,3.516,57
+6/21/2020,2,California,Sonoma,6097,4827,2.639,42
+6/22/2020,2,California,Sonoma,6097,4937,2.85,46
+6/23/2020,2,California,Sonoma,6097,4996,3.81,61
 3/1/2020,2,California,Stanislaus,6099,6769,3.122,51
 3/2/2020,2,California,Stanislaus,6099,6904,5.988,98
 3/3/2020,2,California,Stanislaus,6099,7000,6.082,100
@@ -5113,6 +5348,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Stanislaus,6099,7654,3.36,55
 6/17/2020,2,California,Stanislaus,6099,8930,3.878,63
 6/18/2020,2,California,Stanislaus,6099,7761,4.33,71
+6/19/2020,2,California,Stanislaus,6099,10008,4.648,76
+6/20/2020,2,California,Stanislaus,6099,7240,3.482,57
+6/21/2020,2,California,Stanislaus,6099,7407,2.006,32
+6/22/2020,2,California,Stanislaus,6099,7426,3.262,53
+6/23/2020,2,California,Stanislaus,6099,7800,3.919,64
 3/1/2020,2,California,Sutter,6101,1107,2.602,56
 3/2/2020,2,California,Sutter,6101,1123,4.505,98
 3/3/2020,2,California,Sutter,6101,1121,4.565,100
@@ -5221,6 +5461,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Sutter,6101,1163,3.44,75
 6/17/2020,2,California,Sutter,6101,1359,3.251,71
 6/18/2020,2,California,Sutter,6101,1229,4,87
+6/19/2020,2,California,Sutter,6101,1583,3.68,80
+6/20/2020,2,California,Sutter,6101,1128,2.948,64
+6/21/2020,2,California,Sutter,6101,1176,1.79,39
+6/22/2020,2,California,Sutter,6101,1205,2.904,63
+6/23/2020,2,California,Sutter,6101,1239,3.617,79
 3/1/2020,2,California,Tehama,6103,628,3.224,50
 3/2/2020,2,California,Tehama,6103,639,6.372,100
 3/3/2020,2,California,Tehama,6103,654,5.546,87
@@ -5329,6 +5574,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Tehama,6103,824,4.972,78
 6/17/2020,2,California,Tehama,6103,1047,7.359,115
 6/18/2020,2,California,Tehama,6103,888,7.072,110
+6/19/2020,2,California,Tehama,6103,1189,9.053,142
+6/20/2020,2,California,Tehama,6103,837,7.109,111
+6/21/2020,2,California,Tehama,6103,819,4.032,63
+6/22/2020,2,California,Tehama,6103,840,3.609,56
+6/23/2020,2,California,Tehama,6103,854,7.228,113
 3/1/2020,2,California,Tulare,6107,4563,2.978,61
 3/2/2020,2,California,Tulare,6107,4580,4.712,97
 3/3/2020,2,California,Tulare,6107,4683,4.844,100
@@ -5437,6 +5687,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Tulare,6107,5440,2.732,56
 6/17/2020,2,California,Tulare,6107,6223,3.339,68
 6/18/2020,2,California,Tulare,6107,5577,3.397,70
+6/19/2020,2,California,Tulare,6107,7566,3.952,81
+6/20/2020,2,California,Tulare,6107,5210,2.765,57
+6/21/2020,2,California,Tulare,6107,5113,1.794,37
+6/22/2020,2,California,Tulare,6107,5458,2.493,51
+6/23/2020,2,California,Tulare,6107,5485,3.475,71
 3/1/2020,2,California,Tuolumne,6109,556,5.306,79
 3/2/2020,2,California,Tuolumne,6109,535,6.648,100
 3/3/2020,2,California,Tuolumne,6109,523,5.846,87
@@ -5545,6 +5800,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Tuolumne,6109,768,4.55,68
 6/17/2020,2,California,Tuolumne,6109,948,5.001,75
 6/18/2020,2,California,Tuolumne,6109,843,5.558,83
+6/19/2020,2,California,Tuolumne,6109,1138,6.21,93
+6/20/2020,2,California,Tuolumne,6109,858,5.536,83
+6/21/2020,2,California,Tuolumne,6109,908,7.799,117
+6/22/2020,2,California,Tuolumne,6109,806,4.419,66
+6/23/2020,2,California,Tuolumne,6109,824,6.062,91
 3/1/2020,2,California,Ventura,6111,10227,4.531,58
 3/2/2020,2,California,Ventura,6111,10517,7.422,95
 3/3/2020,2,California,Ventura,6111,10854,7.514,96
@@ -5653,6 +5913,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Ventura,6111,10435,2.829,36
 6/17/2020,2,California,Ventura,6111,11573,3.534,45
 6/18/2020,2,California,Ventura,6111,10175,3.871,49
+6/19/2020,2,California,Ventura,6111,13469,4.273,54
+6/20/2020,2,California,Ventura,6111,9925,3.674,47
+6/21/2020,2,California,Ventura,6111,10346,2.682,34
+6/22/2020,2,California,Ventura,6111,9902,3.181,40
+6/23/2020,2,California,Ventura,6111,10406,3.829,49
 3/1/2020,2,California,Yolo,6113,3100,3.613,62
 3/2/2020,2,California,Yolo,6113,3155,5.418,93
 3/3/2020,2,California,Yolo,6113,3270,5.739,98
@@ -5761,6 +6026,11 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Yolo,6113,3325,2.548,43
 6/17/2020,2,California,Yolo,6113,3795,3.421,58
 6/18/2020,2,California,Yolo,6113,3284,4.056,69
+6/19/2020,2,California,Yolo,6113,4377,4.491,77
+6/20/2020,2,California,Yolo,6113,3147,3.652,62
+6/21/2020,2,California,Yolo,6113,3126,2.417,41
+6/22/2020,2,California,Yolo,6113,3222,3.112,53
+6/23/2020,2,California,Yolo,6113,3332,3.576,61
 3/1/2020,2,California,Yuba,6115,970,5.79,61
 3/2/2020,2,California,Yuba,6115,970,9.071,96
 3/3/2020,2,California,Yuba,6115,973,9.433,100
@@ -5869,3 +6139,8 @@ date,admin_level,admin1,admin2,fips,samples,m50,m50_index
 6/16/2020,2,California,Yuba,6115,1125,6.141,65
 6/17/2020,2,California,Yuba,6115,1402,6.03,63
 6/18/2020,2,California,Yuba,6115,1245,5.48,58
+6/19/2020,2,California,Yuba,6115,1626,7.037,74
+6/20/2020,2,California,Yuba,6115,1147,6.085,64
+6/21/2020,2,California,Yuba,6115,1195,4.125,43
+6/22/2020,2,California,Yuba,6115,1230,6.32,66
+6/23/2020,2,California,Yuba,6115,1202,7.06,74
