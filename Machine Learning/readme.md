@@ -32,7 +32,7 @@ Data analysis and feature engineering
     - Removing for feature with a lesser significance 
     - Drop feature
 
-  Classical models in time series forecasting
+Classical models in time series forecasting
   - ARIMA (Auto-Regressive Integrated Moving Average)
   - VAR (Vector Autoregressive)
 
