@@ -1,31 +1,59 @@
-## Testing various regression model to predict COVID-19 cases in state in California. 
-The winning model will be used to predict the cases at the county level in CA
+Machine learning overview:
+  - Initial question: Determine the vulnerability index per individual based on the county, social and economic profile.
+  - Problem: Lack of sufficient data 
+  - What data we have enough to train a model
+    - case and death per date 
+    - mobility per day
+    - testing per day 
+  - Question to answer
+    - Forecast cases a month ahead
 
-### Description of preliminary data preprocessing
-The CA state data per date for cases, death and mobility will be used to predict the 
-a number of future case.
+Forecasting data order by time belongs to a type of problems called time series forecasting
+  - time add an explicit order dependence between observation: a time dimension
+  - fit model on historical data to predict future data
 
-###  Description of preliminary feature engineering and preliminary feature selection, including their decisionmaking process 
-Since the problem is a time series problem and the data in time series tends to have trends, cycliality and seasonality, several data transformation will be necessary to render the data stationary:
-  - Box-Cox transform
-  - log transform
-  - Differencing
-  - lags
-  - rolling statistics
-  - time dummies
+Time series forecasting data characteristics
+  - Level
+  - Trend
+  - Seasonality 
+  - Noise
+  - Correlation between observations
 
-All the existing columns on the mobility dataset will be used as features to train the model.
+Data analysis and feature engineering
+  - Render data stationary (mean and variance are constant, trend removed)
+    - Dickey-Fuller to test stationarity
+    - Add differencing 
+    - Log transforms
+  - remove autocorrelation
+    - ACF (autocorrelation function) and PACF to plot autocorrelation
+    - Add lags to remove autocorrelation
+  - causality for multivariate models
+    - grangers to test causality
+    - Removing for feature with a lesser significance 
+    - Drop feature
 
-### Description of how data was split into training and testing sets
+Classical models in time series forecasting
+  - ARIMA (Auto-Regressive Integrated Moving Average)
+  - VAR (Vector Autoregressive)
 
-In time series data depends on the previous values as a result splitting the data randomly into train and test is not an option.
+Train and test:
+  - in a time series order is important and a random sampling of data not an option
+  - splitting data in 70 and 30% based in order
 
-I use the first 70% of the data as train data and the last 30% as test data.
+ARIMA - Lags of the stationarized series in the forecasting equation are called "autoregressive" terms, lags of the forecast errors are called "moving average" terms, and a time series which needs to be differenced to be made stationary is said to be an "integrated" version of a stationary series
+    - Data needs to be stationary 
+    - Autocorrelation removed
+    - Using historical case data to predict future cases
+    - 81% accuracy
 
-### Explanation of model choice, including limitations and benefits
+Vector Autoregression (VAR) is a multivariate forecasting algorithm that is used when two or more time series influence each other. 
+    - Data needs to be stationary
+    - Auticorrelation needs to be removed
+    - Bidirectional causation between features is neccessary 
+    - Cases and mobility potentially a good fit
+    - 43% accuracy result
 
-The initial model prediction is done with ARIMA, a classic univariant model in solving time series problems. The model performs poorly at predicting the future case due to the low number of data points and the lack of any other features besides the previous cases data.
-
-Next, the RandomForestRegressor will be tested to predict the cases. Data transformation will be applied to render the data static. The reason why RandomForest was chosen in this case is the general robustness of the model and the feature importance feature.
-
-Update: I wasn't able to make the RandomForestRegressor model work for the problem in hand. I end up using the VAR model and used the case and mobility data to fit it. 
+Future enhancements
+  - Use a deep learning model that will take multivariate data and external regressors to make a prediction (LSTM as a candidate)
+  - Make the modelling data agnostic and use it to forecast cases for different state and counties
+  - Retrieve the data from an API instead of database to always get the freshest data 
